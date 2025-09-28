@@ -20,28 +20,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Shivam Gupta  
+# 👋 Hi, I'm Shivam Gupta
 
-🚀 **DevOps Engineer | Cloud | Automation | CI/CD**  
+🚀 **DevOps Engineer | Cloud | Automation | CI/CD**
 
-I am a **DevOps Engineer with 4+ years of professional experience** in building scalable, automated, and reliable cloud infrastructures.  
-This is my **new GitHub account** (had to start fresh after losing access to my old one). I am gradually adding projects and open-source contributions here.  
+I am a **DevOps Engineer with 4+ years of professional experience** in building scalable, automated, and reliable cloud infrastructures.
+This is my **new GitHub account** (had to start fresh after losing access to my old one). I am gradually adding projects and open-source contributions here.
 
 ---
 
 ## 🛠️ Skills & Expertise
-- ☁️ **Cloud Platforms:** Azure | AWS 
-- ⚙️ **Infrastructure as Code:** Terraform | Ansible  
-- 🔄 **CI/CD Pipelines:** GitHub Actions | Jenkins | Azure DevOps  
-- 📦 **Containers & Orchestration:** Docker | Kubernetes (AKS)  
-- 📊 **Monitoring & Observability:** Prometheus | Grafana | Azure Monitor | App Insights  
-- 💻 **Programming & Scripting:** Python | Shell  
+- ☁️ **Cloud Platforms:** Azure | AWS
+- ⚙️ **Infrastructure as Code:** Terraform | Ansible
+- 🔄 **CI/CD Pipelines:** GitHub Actions | Jenkins | Azure DevOps
+- 📦 **Containers & Orchestration:** Docker | Kubernetes (AKS)
+- 📊 **Monitoring & Observability:** Prometheus | Grafana | Azure Monitor | App Insights
+- 💻 **Programming & Scripting:** Python | Shell
 
 ---
 
 ## 📂 Portfolio & Projects
-🔨 *Currently rebuilding and uploading my projects here.*  
-In the meantime, you can explore my **professional experience** and past work on [LinkedIn](https://www.linkedin.com/in/shivam-gupta-535939140/).  
+🔨 *Currently rebuilding and uploading my projects here.*
+In the meantime, you can explore my **professional experience** and past work on [LinkedIn](https://www.linkedin.com/in/shivam-gupta-535939140/).
 
 ---
 <!--
@@ -52,17 +52,17 @@ In the meantime, you can explore my **professional experience** and past work on
 --- -->
 
 ## 🌱 Currently Learning
-- Advanced **Go** for DevOps tooling  
-- **AI/MLOps** concepts (LangChain, model deployment, pipelines)  
-- Expanding automation with **Azure-native services**  
+- Advanced **Go** for DevOps tooling
+- **AI/MLOps** concepts (LangChain, model deployment, pipelines)
+- Expanding automation with **Azure-native services**
 
 ---
 
 ## 📬 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/shivam-gupta-535939140/)  
-- 🐙 [GitHub](https://github.com/shiv-sg)  
-- ✉️ Email: shivamgupta@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivam-gupta-535939140/)
+- 🐙 [GitHub](https://github.com/shiv-sg)
+- ✉️ Email: sh.3gupta@gmail.com
 
 ---
 
-⭐ *Thanks for visiting! I’m actively rebuilding my open-source and project portfolio here while continuing my professional journey as a DevOps Engineer.*  
+⭐ *Thanks for visiting! I’m actively rebuilding my open-source and project portfolio here while continuing my professional journey as a DevOps Engineer.*
