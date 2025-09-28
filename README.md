@@ -41,15 +41,15 @@ This is my **new GitHub account** (had to start fresh after losing access to my 
 
 ## 📂 Portfolio & Projects
 🔨 *Currently rebuilding and uploading my projects here.*  
-In the meantime, you can explore my **professional experience** and past work on [LinkedIn](https://linkedin.com/in/shiv-sg).  
+In the meantime, you can explore my **professional experience** and past work on [LinkedIn](https://www.linkedin.com/in/shivam-gupta-535939140/).  
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 ![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiv-sg&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv-sg&layout=compact&theme=radical)  
 
----
+--- -->
 
 ## 🌱 Currently Learning
 - Advanced **Go** for DevOps tooling  
@@ -59,7 +59,7 @@ In the meantime, you can explore my **professional experience** and past work on
 ---
 
 ## 📬 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/shiv-sg)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivam-gupta-535939140/)  
 - 🐙 [GitHub](https://github.com/shiv-sg)  
 - ✉️ Email: shivamgupta@example.com  
 
